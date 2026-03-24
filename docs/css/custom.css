@@ -210,7 +210,7 @@
 }
 
 .divMark {
-  background-image: url(//www.onesourceprocess.com/wp-content/themes/one-source-process/assets/img/circle_check.svg);
+  background-image: url("../images/circle_check.svg");
   background-repeat: no-repeat;
   height: 21px;
   width: 19px;
@@ -1365,7 +1365,7 @@ footer .text_info {
 }
 
 .module__price .not {
-  background: url("/wp-content/uploads/2025/05/check.svg") no-repeat left center;
+  background: url("../images/check.svg") no-repeat left center;
   background-size: 20px 20px;
   padding-left: 32px;
 }
@@ -1412,7 +1412,7 @@ footer .text_info {
   inset: 0;
   width: 32px;
   height: 32px;
-  background-image: url("/wp-content/uploads/2025/05/i-circle.svg");
+  background-image: url("../images/i-circle.svg");
   background-size: 20px 20px;
   background-position: center center;
   background-repeat: no-repeat;
@@ -1549,8 +1549,8 @@ header .container {
   height: auto !important;
   min-height: 333px;
   background:
-    url(/wp-content/uploads/2025/05/illustration1.svg) top left/auto auto no-repeat,
-    url(/wp-content/uploads/2025/05/illustration-2.svg) right bottom/auto auto no-repeat,
+    url("../images/illustration1.svg") top left/auto auto no-repeat,
+    url("../images/illustration-2.svg") right bottom/auto auto no-repeat,
     #0f5e59;
   animation: none;
   padding: 80px 0 !important;
@@ -1569,8 +1569,8 @@ header .container {
   .save_time {
     min-height: 480px;
     background:
-      url(/wp-content/uploads/2025/05/illustration-mob1.svg) top left/auto auto no-repeat,
-      url(/wp-content/uploads/2025/05/illustration-mob2.svg) right bottom/auto auto no-repeat,
+      url("../images/illustration-mob1.svg") top left/auto auto no-repeat,
+      url("../images/illustration-mob2.svg") right bottom/auto auto no-repeat,
       #0f5e59;
     animation: none;
     padding: 140px 16px;
@@ -1695,7 +1695,7 @@ header .container {
   transform: translateY(-50%) rotate(180deg);
   width: 16px;
   height: 16px;
-  background-image: url("/wp-content/uploads/2025/05/chevron-down.svg");
+  background-image: url("../images/chevron-down.svg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -1793,7 +1793,7 @@ body {
     width: 16px;
     height: 16px;
     margin-left: 8px;
-    background-image: url("/wp-content/uploads/2025/05/chevron-down.svg");
+    background-image: url("../images/chevron-down.svg");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -1844,7 +1844,7 @@ footer .container::before {
   left: 0;
   width: 170px;
   height: 50px;
-  background: url("/wp-content/uploads/2025/10/footer-logo.svg") no-repeat;
+  background: url("../images/footer-logo.svg") no-repeat;
   background-size: contain;
   background-position: top left;
 }
@@ -1966,7 +1966,7 @@ footer .text_info p strong {
   line-height: 100%;
   color: #0f5e59;
   transition: 0.3s;
-  background: url("/wp-content/uploads/2025/05/check-1.svg") no-repeat left 8px;
+  background: url("../images/check-1.svg") no-repeat left 8px;
   padding-bottom: 6px;
   padding-top: 6px;
 }
@@ -2271,7 +2271,7 @@ footer .text_info p strong {
 }
 
 .divMark {
-  background-image: url("/wp-content/uploads/2025/05/check-2.svg");
+  background-image: url("../images/check-2.svg");
   height: 24px;
   width: 24px;
   background-position-y: 0;
@@ -2473,7 +2473,7 @@ footer .text_info p strong {
   line-height: 100%;
   color: #0f5e59;
   transition: 0.3s;
-  background: url("/wp-content/uploads/2025/05/check-1.svg") no-repeat left 8px;
+  background: url("../images/check-1.svg") no-repeat left 8px;
   background-position-y: center;
   padding-bottom: 6px;
   padding-top: 6px;
@@ -2608,8 +2608,8 @@ footer .text_info p strong {
 .blog .module__banner {
   min-height: 339px;
   background:
-    url("/wp-content/uploads/2025/06/illustration-left.png") left top,
-    url("/wp-content/uploads/2025/06/illustration-right.png") right bottom,
+    url("../images/illustration-left.png") left top,
+    url("../images/illustration-right.png") right bottom,
     #0f5e59;
   background-repeat: no-repeat;
 }
@@ -2629,7 +2629,7 @@ footer .text_info p strong {
 .blog .module__banner .image {
   width: 723px;
   height: 259px;
-  background-image: url("/wp-content/uploads/2025/06/banner-img.png");
+  background-image: url("../images/banner-img.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -2652,8 +2652,8 @@ footer .text_info p strong {
 @media (max-width: 768px) {
   .blog .module__banner {
     background:
-      url("/wp-content/uploads/2025/06/illustration-left-mob.png") left top,
-      url("/wp-content/uploads/2025/06/illustration-right-mob.png") right bottom,
+      url("../images/illustration-left-mob.png") left top,
+      url("../images/illustration-right-mob.png") right bottom,
       #0f5e59;
     background-repeat: no-repeat;
   }
@@ -2668,7 +2668,7 @@ footer .text_info p strong {
   .blog .module__banner .image {
     width: 263px;
     height: 795px;
-    background-image: url("/wp-content/uploads/2025/06/banner-img-mob.png");
+    background-image: url("../images/banner-img-mob.png");
   }
 }
 
@@ -2681,7 +2681,7 @@ footer .text_info p strong {
   z-index: 0;
   width: 390px;
   height: 420px;
-  background: url("/wp-content/uploads/2025/06/stroke-1.png") top right;
+  background: url("../images/stroke-1.png") top right;
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -2724,7 +2724,7 @@ footer .text_info p strong {
   border: 1px solid #0f5e59;
   border-radius: 2px;
   flex-shrink: 0;
-  background-image: url("/wp-content/uploads/2025/06/check2.svg") !important;
+  background-image: url("../images/check2.svg") !important;
   background-position: center center;
   background-size: contain;
 }
@@ -2740,7 +2740,7 @@ footer .text_info p strong {
 }
 
 .section_main_page .select_def {
-  background: url("/wp-content/uploads/2025/06/chevron-down1.svg") no-repeat right 31px center;
+  background: url("../images/chevron-down1.svg") no-repeat right 31px center;
 }
 
 .section_main_page .sidebar.pc .title {
@@ -2761,7 +2761,7 @@ footer .text_info p strong {
 }
 
 .section_main_page .sidebar.pc .module__step_form .item_c.active::after {
-  background: url("/wp-content/uploads/2025/06/Group-10043.svg") no-repeat;
+  background: url("../images/Group-10043.svg") no-repeat;
   filter: none;
 }
 
@@ -2963,8 +2963,8 @@ footer .text_info p strong {
 
 .court-page .hero.hero_4.load {
   background:
-    url("/wp-content/uploads/2025/06/illustration-right-2.png") right top 40px,
-    url("/wp-content/uploads/2025/06/illustration-left-2.png") left bottom 36px,
+    url("../images/illustration-right-2.png") right top 40px,
+    url("../images/illustration-left-2.png") left bottom 36px,
     #e9f2e1;
   background-repeat: no-repeat;
 }
@@ -3044,8 +3044,8 @@ footer .text_info p strong {
   .court-page .hero.hero_4.load {
     padding-bottom: 48px;
     background:
-      url("/wp-content/uploads/2025/06/illustration-right-2.png") right -120px top 40px,
-      url("/wp-content/uploads/2025/06/illustration-left-2.png") left -110px bottom 36px,
+      url("../images/illustration-right-2.png") right -120px top 40px,
+      url("../images/illustration-left-2.png") left -110px bottom 36px,
       #e9f2e1;
     background-repeat: no-repeat;
   }
@@ -3057,7 +3057,7 @@ footer .text_info p strong {
 /* Service of Process Job Request */
 
 .section_main_page .simple-select__control.css-1owns59-control {
-  background: url("/wp-content/uploads/2025/06/chevron-down1.svg") no-repeat right 31px center;
+  background: url("../images/chevron-down1.svg") no-repeat right 31px center;
 }
 
 .section_main_page .module__radio {
@@ -3335,7 +3335,7 @@ footer .text_info p strong {
 .partner-page-hero::after {
   width: 164px;
   height: 233px;
-  background-image: url("/wp-content/uploads/2025/07/illustration.png");
+  background-image: url("../images/illustration.png");
   bottom: 0;
   left: 0;
 }
@@ -3343,7 +3343,7 @@ footer .text_info p strong {
 .partner-page-hero::before {
   width: 193px;
   height: 249px;
-  background-image: url("/wp-content/uploads/2025/07/illustration-1.png");
+  background-image: url("../images/illustration-1.png");
   bottom: 37px;
   right: 0;
 }
@@ -3358,7 +3358,7 @@ footer .text_info p strong {
     content: "";
     width: 148px;
     height: 108px;
-    background-image: url("/wp-content/uploads/2025/07/illustration-4.png");
+    background-image: url("../images/illustration-4.png");
     bottom: 0;
     left: 0;
   }
@@ -3366,7 +3366,7 @@ footer .text_info p strong {
   .partner-page-hero::before {
     width: 33px;
     height: 248px;
-    background-image: url("/wp-content/uploads/2025/07/illustration-5.png");
+    background-image: url("../images/illustration-5.png");
     bottom: 141px;
     right: 0;
   }
@@ -3411,15 +3411,15 @@ footer .text_info p strong {
 }
 
 .partner-page-card.card_1 {
-  background-image: url("/wp-content/uploads/2025/07/Professional-Process-Servers_1.png");
+  background-image: url("../images/Professional-Process-Servers_1.png");
 }
 
 .partner-page-card.card_2 {
-  background-image: url("/wp-content/uploads/2025/07/Professional-Process-Servers_2.png");
+  background-image: url("../images/Professional-Process-Servers_2.png");
 }
 
 .partner-page-card.card_3 {
-  background-image: url("/wp-content/uploads/2025/07/Frame-529.png");
+  background-image: url("../images/Frame-529.png");
   background-position: bottom right 55px;
 }
 
@@ -3446,7 +3446,7 @@ footer .text_info p strong {
   width: 16px;
   height: 16px;
   background-color: transparent;
-  background-image: url("/wp-content/uploads/2025/05/check-2.svg");
+  background-image: url("../images/check-2.svg");
   background-size: contain;
   top: 6px;
 }
@@ -3454,8 +3454,8 @@ footer .text_info p strong {
 /* Partner Page Form */
 .partner-page-form {
   background:
-    url(/wp-content/uploads/2025/07/illustration-2.png) bottom 140px left/auto auto no-repeat,
-    url(/wp-content/uploads/2025/07/illustration-3.png) right top 80px / auto auto no-repeat;
+    url("../images/illustration-2.png") bottom 140px left/auto auto no-repeat,
+    url("../images/illustration-3.png") right top 80px / auto auto no-repeat;
 }
 
 .title_h2.title_pp_form {
@@ -3484,7 +3484,7 @@ footer .text_info p strong {
   transform: rotate(180deg);
   width: 16px;
   height: 16px;
-  background-image: url("/wp-content/uploads/2025/05/chevron-down.svg");
+  background-image: url("../images/chevron-down.svg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -3571,7 +3571,7 @@ footer .text_info p strong {
 .affiliate-page {
   height: 844px;
   background-color: #99abaa;
-  background-image: url("/wp-content/uploads/2025/07/Thank-you.png");
+  background-image: url("../images/Thank-you.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center center;
@@ -3590,7 +3590,7 @@ footer .text_info p strong {
   padding: 72px 56px;
   border-radius: 8px;
   background-color: #fff;
-  background-image: url("/wp-content/uploads/2025/07/Group-17.png");
+  background-image: url("../images/Group-17.png");
   background-repeat: no-repeat;
   background-size: 315px 270px;
   background-repeat: no-repeat;
@@ -3605,7 +3605,7 @@ footer .text_info p strong {
   right: 16px;
   width: 20px;
   height: 20px;
-  background-image: url("/wp-content/uploads/2025/07/plus.svg");
+  background-image: url("../images/plus.svg");
   background-size: contain;
   cursor: pointer;
 }
@@ -3642,7 +3642,7 @@ footer .text_info p strong {
     width: 343px;
     min-height: 480px;
     padding: 48px 40px;
-    background-image: url("/wp-content/uploads/2025/07/Group-17.png");
+    background-image: url("../images/Group-17.png");
     background-repeat: no-repeat;
     background-size: 263px 206px;
     background-position: bottom 139px right 40px;
@@ -3723,7 +3723,7 @@ footer .text_info p strong {
   border: 1px solid #0f5e59;
   border-radius: 2px;
   flex-shrink: 0;
-  background-image: url("/wp-content/uploads/2025/06/check2.svg") !important;
+  background-image: url("../images/check2.svg") !important;
   background-position: center center;
   background-size: contain;
 }
@@ -3877,7 +3877,7 @@ select:focus {
   font-size: 18px;
   font-weight: 500;
   background-color: rgba(15, 94, 89, 0.15);
-  background-image: url("/wp-content/uploads/2025/11/clients.svg");
+  background-image: url("../images/clients.svg");
   background-size: auto;
   background-repeat: no-repeat;
   background-position: 11px center;
@@ -4024,7 +4024,7 @@ select:focus {
 .how-dots {
   width: 60px;
   height: 50px;
-  background-image: url("/wp-content/uploads/2025/11/dots.svg");
+  background-image: url("../images/dots.svg");
   background-size: auto;
   background-repeat: no-repeat;
   background-position: center center;
@@ -4037,7 +4037,7 @@ select:focus {
   }
   .how-dots {
     height: 70px;
-    background-image: url("/wp-content/uploads/2025/11/dots-vertical.svg");
+    background-image: url("../images/dots-vertical.svg");
   }
 }
 
@@ -4135,19 +4135,19 @@ select:focus {
 }
 
 .module__accordion .item#step1 .step .step__icon {
-  background-image: url("/wp-content/uploads/2025/11/step1.svg");
+  background-image: url("../images/step1.svg");
 }
 
 .module__accordion .item#step2 .step .step__icon {
-  background-image: url("/wp-content/uploads/2025/11/step2.svg");
+  background-image: url("../images/step2.svg");
 }
 
 .module__accordion .item#step3 .step .step__icon {
-  background-image: url("/wp-content/uploads/2025/11/step3.svg");
+  background-image: url("../images/step3.svg");
 }
 
 .module__accordion .item#step4 .step .step__icon {
-  background-image: url("/wp-content/uploads/2025/11/step4.svg");
+  background-image: url("../images/step4.svg");
 }
 
 @media (min-width: 992px) {
@@ -4357,7 +4357,7 @@ select:focus {
   max-width: 1280px;
   margin: 0 auto;
   padding: 80px 35px;
-  background-image: url("/wp-content/uploads/2026/02/Group-10098.png");
+  background-image: url("../images/Group-10098.png");
   background-repeat: no-repeat;
   background-position: bottom right 124px;
 }
@@ -4398,7 +4398,7 @@ select:focus {
   left: 0;
   width: 16px;
   height: 16px;
-  background-image: url("/wp-content/uploads/2026/02/check.svg");
+  background-image: url("../images/check.svg");
   background-size: contain;
   background-repeat: no-repeat;
 }
