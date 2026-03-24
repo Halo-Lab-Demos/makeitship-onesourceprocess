@@ -1,0 +1,8 @@
+{
+  "client": "onesourceprocess",
+  "pages": [
+    { "name": "home", "url": "https://www.onesourceprocess.com/" },
+    { "name": "partner-program", "url": "https://www.onesourceprocess.com/partner-program/" }
+  ],
+  "viewport": { "width": 1440, "height": 900 }
+}
